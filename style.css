@@ -1,0 +1,52 @@
+.container-fluid {
+    background-image: url(images/bg1.jpg);
+
+
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(53,53,53,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(53,53,53,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(53,53,53,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0.00%,rgba(53,53,53,1.00) 100%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FFFFFF;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    color: #FFFFFF;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(14,16,39,1.00) 0%,rgba(5,6,11,1.00) 99.59%);
+    background-image: -moz-linear-gradient(270deg,rgba(14,16,39,1.00) 0%,rgba(5,6,11,1.00) 99.59%);
+    background-image: -o-linear-gradient(270deg,rgba(14,16,39,1.00) 0%,rgba(5,6,11,1.00) 99.59%);
+    background-image: linear-gradient(180deg,rgba(14,16,39,1.00) 0%,rgba(5,6,11,1.00) 99.59%);
+}
+
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+}
+.container-fluid .container footer {
+    background-image: -webkit-linear-gradient(270deg,rgba(9,7,32,1.00) 0%,rgba(17,17,23,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(9,7,32,1.00) 0%,rgba(17,17,23,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(9,7,32,1.00) 0%,rgba(17,17,23,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(9,7,32,1.00) 0.00%,rgba(17,17,23,1.00) 100%);
+}
+footer .row .col-lg-6 {
+    color: #FFFFFF;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler .navbar-toggler-icon {
+    background-color: #706E6E;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #1E1D41;
+}
+.container-fluid .container .text-center {
+    color: #FFFFFF;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.container-fluid .container p {
+    color: #FFFFFF;
+    text-align: justify;
+}
+.card.col-md-4.col-lg-12 .card-body .card-text {
+    color: #000000;
+}
